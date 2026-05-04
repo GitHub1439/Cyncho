@@ -1836,7 +1836,7 @@ nav.main-menu .megamenu-content .title{
     padding-bottom: 40px;
     position: relative;
 }
-.banner_slider.banner_slider_wide:after {
+/* .banner_slider.banner_slider_wide:after {
     display: block;
     height: 100%;
     content: '';
@@ -1846,7 +1846,7 @@ nav.main-menu .megamenu-content .title{
     left: -40%;
     width: 100%;
     background-color: #3c66ac;
-}
+} */
 .banner_slider.banner_slider_wide:before {
     display: block;
     height: 100%;
@@ -1910,7 +1910,7 @@ nav.main-menu .megamenu-content .title{
     display: block;
     position: absolute;
     height: 370px;
-    color: #fff;
+    color: #000000;
     writing-mode: vertical-rl;
     transform: rotate(180deg);
 }
