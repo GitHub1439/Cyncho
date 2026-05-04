@@ -2335,15 +2335,18 @@ nav.main-menu .megamenu-content .title{
     padding: 0;
     list-style: none;
 }
-
+.first-footer{
+    margin-top: 0!important;
+}
 /* first-footer (newsletter) */
 .first-footer .container{
-    padding: 35px 15px 15px;
+    padding: 15px 15px 15px;
     position: relative;
+    margin-bottom: 0!important
 }
 .first-footer .widget {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    /* padding-top: 30px;
+    padding-bottom: 30px; */
 }
 
 
